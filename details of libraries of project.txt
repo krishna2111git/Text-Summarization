@@ -1,0 +1,2 @@
+transformers lib. : for using the huggingface api
+sacreblue : it has a metric called rouge metric which is used for evaluating the text summarization model
